@@ -1,0 +1,45 @@
+body {
+    font-family:"Verdana", "Geneva", "Tahoma", "sans-serif";
+}
+li {
+    list-style: none;
+}
+
+.header {
+    background: blue;
+    color: aliceblue;
+    height: 90px;
+}
+
+.header-title {
+    float: left;
+}
+
+.header-menu {
+    float: right;
+}
+
+.main {
+    background: yellow;
+    color: black;
+    height: 360px;
+}
+
+.contents-title {
+    font-size: 14px;
+    color: black;
+}
+
+.footer {
+    background: green;
+    color: aliceblue;
+    height: 90px;
+}
+
+.footer-title {
+    float: left;
+}
+
+.footer-menu {
+    float: right;
+}
